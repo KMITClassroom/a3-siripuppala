@@ -6,7 +6,7 @@ import GreetingsClass from './components/GreetingsClass';
 function App() {
   return (
     <div className="App">
-      <MyGreetings userName="NGIT Student" />
+      <MyGreetings userName="NGIT and KMIT Students" />
       <GreetingsClass/>
     </div>
   );
